@@ -16,9 +16,3 @@ function increaseRankBy(n) {
       }
   }
 }
-
-function deepestChild() {
-  let currentElem = document.getElementById('grand-node').querySelectorAll('div');
-
-
-}
